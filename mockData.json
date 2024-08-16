@@ -1,0 +1,24 @@
+{
+  "name": "iste",
+  "age": 55284,
+  "isActive": true,
+  "createdAt": "2024-08-16T03:40:10.859Z",
+  "tags": [
+    {
+      "subName": "nulla",
+      "subAge": 67956
+    },
+    {
+      "subName": "accusamus",
+      "subAge": 11910
+    },
+    {
+      "subName": "quod",
+      "subAge": 54052
+    }
+  ],
+  "nested": {
+    "subName": "dolores",
+    "subAge": 67644
+  }
+}
