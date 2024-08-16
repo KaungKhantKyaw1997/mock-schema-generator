@@ -108,13 +108,13 @@ generateAndSaveMockData();
 
 To run the server and generate mock data, use the following commands:
 
-- **Generate JSON Data**:
+**Generate JSON Data**:
 
 ```sh
 node mockJsonData.js
 ```
 
-- **Generate Excel Data**:
+**Generate Excel Data**:
 
 ```sh
 node mockExcelData.js
