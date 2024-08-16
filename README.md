@@ -104,7 +104,7 @@ async function generateAndSaveMockData() {
 generateAndSaveMockData();
 ```
 
-## Run the Server
+### Run the Server
 
 To run the server and generate mock data, use the following commands:
 
