@@ -1,14 +1,13 @@
 {
   "name": "mock-schema-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool for generating mock data and implementations based on schema definitions. Ideal for testing and development.",
   "main": "src/index.js",
   "scripts": {
     "start:json": "node mockJsonData.js",
-    "start:excel": "node mockExcelData.js",
-    "dev:json": "nodemon mockJsonData.js",
-    "dev:excel": "nodemon mockExcelData.js"
+    "start:excel": "node mockExcelData.js"
   },
+  "repository": "https://github.com/KaungKhantKyaw1997/mock-schema-generator.git",
   "keywords": [
     "testing",
     "mock",
@@ -17,10 +16,9 @@
     "schema"
   ],
   "author": "Kaung Khant Kyaw",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "exceljs": "^4.4.0",
-    "faker": "^5.5.3",
-    "nodemon": "^3.1.4"
+    "faker": "^5.5.3"
   }
 }
